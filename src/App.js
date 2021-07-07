@@ -17,9 +17,9 @@ const App = () => {
       setLoading(true);
 
       if (fileType === "csv") {
-        response = await CSVLoader("/data/nasafiredata.csv");
+        response = await CSVLoader("/fire-tracker/data/nasafiredata.csv");
       } else if (fileType === "json") {
-        response = await JSONLoader("/data/nasafireevents.json");
+        response = await JSONLoader("/fire-tracker/data/nasafireevents.json");
       } else if (fileType === "api") {
         response = await JSONLoader(
           "https://eonet.sci.gsfc.nasa.gov/api/v2.1/events"

@@ -12,7 +12,7 @@ let vectorLayer = new VectorLayer({
   style: new Style({
     image: new Icon({
       scale: [0.3, 0.3],
-      src: "assets/fire.svg",
+      src: "/fire-tracker/assets/fire.svg",
     }),
   }),
 });
