@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/eblissss/fire-tracker/static/css/main.7ae82fe7.chunk.css",
-    "main.js": "/eblissss/fire-tracker/static/js/main.4d6c9bf3.chunk.js",
-    "main.js.map": "/eblissss/fire-tracker/static/js/main.4d6c9bf3.chunk.js.map",
-    "runtime-main.js": "/eblissss/fire-tracker/static/js/runtime-main.e3362056.js",
-    "runtime-main.js.map": "/eblissss/fire-tracker/static/js/runtime-main.e3362056.js.map",
-    "static/js/2.085dcbc4.chunk.js": "/eblissss/fire-tracker/static/js/2.085dcbc4.chunk.js",
-    "static/js/2.085dcbc4.chunk.js.map": "/eblissss/fire-tracker/static/js/2.085dcbc4.chunk.js.map",
-    "static/js/3.0317df21.chunk.js": "/eblissss/fire-tracker/static/js/3.0317df21.chunk.js",
-    "static/js/3.0317df21.chunk.js.map": "/eblissss/fire-tracker/static/js/3.0317df21.chunk.js.map",
-    "index.html": "/eblissss/fire-tracker/index.html",
-    "static/css/main.7ae82fe7.chunk.css.map": "/eblissss/fire-tracker/static/css/main.7ae82fe7.chunk.css.map",
-    "static/js/2.085dcbc4.chunk.js.LICENSE.txt": "/eblissss/fire-tracker/static/js/2.085dcbc4.chunk.js.LICENSE.txt"
+    "main.css": "/fire-tracker/static/css/main.7ae82fe7.chunk.css",
+    "main.js": "/fire-tracker/static/js/main.4d6c9bf3.chunk.js",
+    "main.js.map": "/fire-tracker/static/js/main.4d6c9bf3.chunk.js.map",
+    "runtime-main.js": "/fire-tracker/static/js/runtime-main.99b1821d.js",
+    "runtime-main.js.map": "/fire-tracker/static/js/runtime-main.99b1821d.js.map",
+    "static/js/2.085dcbc4.chunk.js": "/fire-tracker/static/js/2.085dcbc4.chunk.js",
+    "static/js/2.085dcbc4.chunk.js.map": "/fire-tracker/static/js/2.085dcbc4.chunk.js.map",
+    "static/js/3.0317df21.chunk.js": "/fire-tracker/static/js/3.0317df21.chunk.js",
+    "static/js/3.0317df21.chunk.js.map": "/fire-tracker/static/js/3.0317df21.chunk.js.map",
+    "index.html": "/fire-tracker/index.html",
+    "static/css/main.7ae82fe7.chunk.css.map": "/fire-tracker/static/css/main.7ae82fe7.chunk.css.map",
+    "static/js/2.085dcbc4.chunk.js.LICENSE.txt": "/fire-tracker/static/js/2.085dcbc4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e3362056.js",
+    "static/js/runtime-main.99b1821d.js",
     "static/js/2.085dcbc4.chunk.js",
     "static/css/main.7ae82fe7.chunk.css",
     "static/js/main.4d6c9bf3.chunk.js"
